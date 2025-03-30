@@ -1,4 +1,4 @@
-# Image-To-Text Using Gemini AI (gemini-1.5-flash-latest)
+# Image-To-Text Using Gemini AI (Gemini-1.5-flash-latest)
 
 Welcome to the **Image-To-Text-Using-Gemini AI** project! This repository demonstrates how to extract text from images using the powerful **Gemini AI** model integrated with **Google Colab**. The Generative AI model used here is **gemini-1.5-flash-latest**, and image processing is done using the **Pillow** library.
 
