@@ -17,7 +17,7 @@ Welcome to the **Image-To-Text-Using-Gemini AI** project! This repository demons
 
 ## Project Overview
 
-This project provides a streamlined way to convert images to text using **Google's Gemini AI** model. The process involves using the `pillow` library to handle image processing and **Google Generative AI** to perform text extraction from the images.
+This project provides a streamlined way to convert images to text using Google's Gemini AI model. The process involves using the `pillow` library to handle image processing and Google Generative AI to extract text from the images.
 
 ---
 
