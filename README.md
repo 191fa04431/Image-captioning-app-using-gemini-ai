@@ -90,7 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you like my work, **give a star** ⭐! 
+If you like my work, **give me a star** ⭐! 
 
 For any issues regarding the code or installation, feel free to open a discussion or contact me. I'm always happy to help!
 
